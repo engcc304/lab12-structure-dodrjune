@@ -26,6 +26,10 @@
 
 #include <stdio.h>
 
+int ADD_VALUE (int x ,int y) {
+    
+}
+
 int main() {
 
     //--| YOUR CODE HERE

@@ -139,7 +139,7 @@
     printf ( "Student Details:\n" ) ;
     for (int n = 0 ; n < 3 ; n++ ) {
 
-        printf ( "Studen %d : \n " , n+1 ) ;
+        printf ( "\nStuden %d : \n" , n+1 ) ;
         printf ( "Name : %s\n", CPE[n].Name  ) ;
         printf ( "ID : %s\n", CPE[n].ID  ) ;
         printf ( "Score : %.0f %.0f %.0f %.0f %.0f", CPE[n]. ScoreSub1, CPE[n]. ScoreSub2, CPE[n]. ScoreSub3, CPE[n]. ScoreSub4, CPE[n]. ScoreSub5   ) ;
